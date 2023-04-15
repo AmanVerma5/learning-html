@@ -1,0 +1,20 @@
+#blog {
+    font-family: Inter;
+    border:1px solid rgb(0,0,0);
+    padding: 20px;
+    font-size: larger;
+}
+img{
+    width:50%;
+}
+a.link:link{
+    color:black !important;
+    background-color: transparent;
+    text-decoration: underline;
+}
+#image,#trivia{
+    font-size: large;
+}
+li{
+    line-height: 25px;
+}
